@@ -19,6 +19,13 @@ Specific dates and topics are not set in stone yet.
 Loosly targeting the first week of June.
 
 
+## Target Audience
+
+This workshop is aimed at new PhD students.
+Ambitious Master students or young PostDocs
+are also welcome.
+
+
 ## Day One and Two
 
 These will cover general computing skills and

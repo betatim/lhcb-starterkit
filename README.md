@@ -26,6 +26,12 @@ Ambitious Master students or young PostDocs
 are also welcome.
 
 
+## Be Social
+
+The registration fee will be used for coffee breaks
+and a BBQ at the lake.
+
+
 ## Day One and Two
 
 These will cover general computing skills and

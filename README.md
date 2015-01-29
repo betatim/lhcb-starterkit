@@ -51,6 +51,8 @@ will be covered:
  * Programming in Python
  * ...
 
+We need to think of something for the fourth slot.
+
  
 ## Day Three and Four
 
@@ -66,13 +68,17 @@ DecayTreeTuple algorithm."
 We will cover everything you need to know to measure
 the branching ratio of J/Psi -> mumu K.
 
-  * svn (if not in SWC)
-  * Data flow from collision to nTuple
-  * Reconstruction from A-Z
-  * Questions the Physics coordinator is sick of (issues everyone has): multiple candidates, TISTOS, PID efficiencies, ...
-  * What is a trigger anyway? Why do I need one? Which ones can I choose from?
-  * Stripping? Why do I need this? Which ones can I choose from? Where do I find them? Candidates are where?
-  * Make a nTuple
-  * Act local, think global. Your first grid job.
-  * 
-  
+Below a growing list of topics/ideas to cover. Ideally
+these will be combined/slimmed down into four hands-on
+sessions each half a day (3hrs) long.
+
+ * svn (if not in SWC)
+ * Data flow from collision to nTuple
+ * Reconstruction from A-Z
+ * Questions the Physics coordinator is sick of (issues everyone has): multiple candidates, TISTOS, PID efficiencies, ...
+ * What is a trigger anyway? Why do I need one? Which ones can I choose from?
+ * Stripping? Why do I need this? Which ones can I choose from? Where do I find them? Candidates are where?
+ * Make a nTuple
+ * Act local, think global. Your first grid job.
+ * $YourIdeaHere
+

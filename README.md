@@ -66,7 +66,7 @@ with "I want to make an nTuple, for this you use the
 DecayTreeTuple algorithm."
 
 We will cover everything you need to know to measure
-the branching ratio of J/Psi -> mumu K.
+the branching ratio of B -> J/Psi K.
 
 Below a growing list of topics/ideas to cover. Ideally
 these will be combined/slimmed down into four hands-on

@@ -68,7 +68,25 @@ DecayTreeTuple algorithm."
 We will cover everything you need to know to measure
 the branching ratio of B -> J/Psi K.
 
-Below a growing list of topics/ideas to cover. Ideally
+We are conducting a [survey][] to get some input on what
+people think they would like to learn or think
+others should learn.
+
+[survey]: https://docs.google.com/forms/d/1IqU_u6sirC7vnBINNoiMzHj7mumm6xem9N2gssmfOfA/viewform
+
+Current best guess:
+
+ * half day: how to make a basic nTuple on the grid
+ * half day: mass hypo susbtitution pi <-> K
+ * half day Fun with Loki functors
+ * half day: decay tree fitter
+
+The idea is to cover things which lots of people need
+but are not "basic". What do you do once you have
+your simple nTuple. Things that you will need to do
+and will be painful because they are not explained.
+
+Below a growing list of additional topics/ideas to cover. Ideally
 these will be combined/slimmed down into four hands-on
 sessions each half a day (3hrs) long.
 

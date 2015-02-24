@@ -49,7 +49,7 @@ will be covered:
  * The Unix Shell
  * Version control with git/svn
  * Programming in Python
- * ...
+ * Possibly introduction to R?
 
 We need to think of something for the fourth slot.
 
@@ -74,17 +74,21 @@ others should learn.
 
 [survey]: https://docs.google.com/forms/d/1IqU_u6sirC7vnBINNoiMzHj7mumm6xem9N2gssmfOfA/viewform
 
-Current best guess:
+Current best guess is we will split things into four half
+days. Topics:
 
- * half day: how to make a basic nTuple on the grid
- * half day: mass hypo susbtitution pi <-> K
- * half day Fun with Loki functors
- * half day: decay tree fitter
+ * how to make a basic nTuple on the grid (screen, ganga, template option files, find out tags)
+ * mass hypo susbtitution pi <-> K, how to (ab/re)use a similar stripping line
+ * Fun with Loki functors
+ * Decay tree fitter
 
 The idea is to cover things which lots of people need
 but are not "basic". What do you do once you have
 your simple nTuple. Things that you will need to do
 and will be painful because they are not explained.
+
+
+## Other topics that could be interesting for the future
 
 Below a growing list of additional topics/ideas to cover. Ideally
 these will be combined/slimmed down into four hands-on

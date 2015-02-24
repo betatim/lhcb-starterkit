@@ -11,12 +11,13 @@ the basics: lab skills for scientific computing.
 Days three and four will focus on LHCb specific
 tasks and questions.
 
-Specific dates and topics are not set in stone yet.
+Topics are not set in stone yet for the LHCb part,
+they depend in part on interest and instructors.
 
 
 ## Potential dates
 
-Loosly targeting the first week of June.
+Targeting the first week of June.
 
 
 ## Target Audience
@@ -51,8 +52,6 @@ will be covered:
  * Programming in Python
  * Possibly introduction to R?
 
-We need to think of something for the fourth slot.
-
  
 ## Day Three and Four
 
@@ -65,7 +64,7 @@ and it uses DecayTreeTupleTools to write individual branches"
 with "I want to make an nTuple, for this you use the
 DecayTreeTuple algorithm."
 
-We will cover everything you need to know to measure
+We will cover things based on measuring
 the branching ratio of B -> J/Psi K.
 
 We are conducting a [survey][] to get some input on what

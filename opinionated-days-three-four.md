@@ -8,7 +8,7 @@
   - What is SetupProject and how do I use it?
   - What is DaVinci and what does it add on top of Gaudi?
   - Hands-on
-    - (I think we should teach tmux on lx+ during days 1/2 so we can rely on it here)
+    - (I think we should teach `screen` on lx+ during days 1/2 so we can rely on it here)
     - Running DaVinci with a simple option file to print TES contents
       - We provide an MC file on public afs and hard-code the path into the options
     - How to read the output of Gaudi in case something goes wrong

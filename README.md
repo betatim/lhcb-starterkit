@@ -15,10 +15,9 @@ Topics are not set in stone yet for the LHCb part,
 they depend in part on interest and instructors.
 
 
-## Potential dates
+## Dates
 
-Targeting the first week of June.
-
+Four day workshop from June 2-5 2015 at CERN
 
 ## Target Audience
 
@@ -47,13 +46,14 @@ what they have learned to their own research problems.
 The following modules from their full set of [lessons](//software-carpentry.org/lessons.html)
 will be covered:
 
- * The Unix Shell
- * Version control with git/svn
- * Programming in Python
- * Possibly introduction to R?
+ * [The Unix Shell](//swcarpentry.github.io/shell-novice)
+ * [Version control with git](http://swcarpentry.github.io/git-novice)
+ * [Programming in Python](http://swcarpentry.github.io/python-novice-inflammation)
 
  
 ## Day Three and Four
+
+*Material is developing [here](//github.com/betatim/lhcb-first-analysis-steps).*
 
 These will cover LHCb specific topics. We would like
 to see these topics approached in a

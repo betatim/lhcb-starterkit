@@ -1,11 +1,11 @@
 # Possible topics for days 3+4
 
 ## What is Gaudi and which problems does it solve?
-  - A framework for event stream processing 
+  - A framework for event stream processing
   - Basic components: Algorithm, Tool
   - What is the TES?
   - How is Gaudi configured? -> Python options
-  - What is SetupProject and how do I use it?
+  - What is CMake and how do I use it?
   - What is DaVinci and what does it add on top of Gaudi?
   - Hands-on
     - (I think we should teach `screen` on lx+ during days 1/2 so we can rely on it here)
@@ -25,7 +25,7 @@
 ## Working with the LHC grid
   - Why do we want to use the grid?
     - hands-on: Running a hello world job on the grid using the Dirac API
-  - We don't need to use the Dirac API manually -> ganga 
+  - We don't need to use the Dirac API manually -> ganga
     - hands-on: Creating a hello world job with ganga
   - Running DaVinci on the grid using ganga
     - How to make set DaVinci as the application and configure it
@@ -43,6 +43,10 @@
   - How do I extend a stripping line to build my candidates of choice and run it?
 
 ## Trigger efficiencies using TISTOS
+  - TisTos intro for users
+  - TupleTools you can use
+  - Interpreting the result
+  - Possible caveats (Tis correlations, etc.)
 
 ## Getting creative with LoKi functors
 
@@ -54,3 +58,8 @@
 
 ## How to apply multivariate tools in DecayTreeTuple
 
+## I have a problem, how do I debug it
+  - Mailing lists
+  - Finding out where your problem is
+  - GaudiPython is your friend
+  - Debug builds and gdb (this one might be too much)

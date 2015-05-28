@@ -11,9 +11,11 @@ the basics: lab skills for scientific computing.
 Days three and four will focus on LHCb specific
 tasks and questions.
 
-Topics are not set in stone yet for the LHCb part,
-they depend in part on interest and instructors.
-
+**This is the admin-paperwork-keeptrackofthings
+repository for this event. Check out the real
+content for
+[days one and two](//twitwi.github.io/2015-06-02-cern-lhcb/)
+and [days three and four](//lhcb.github.io/first-analysis-steps/)**
 
 ## Dates
 
@@ -53,7 +55,7 @@ will be covered:
  
 ## Day Three and Four
 
-*Material is developing [here](//github.com/betatim/lhcb-first-analysis-steps).*
+*Material is in [lhcb/first-analysis-steps](//github.com/lhcb/first-analysis-steps).*
 
 These will cover LHCb specific topics. We would like
 to see these topics approached in a
@@ -64,27 +66,11 @@ and it uses DecayTreeTupleTools to write individual branches"
 with "I want to make an nTuple, for this you use the
 DecayTreeTuple algorithm."
 
-We will cover things based on measuring
-the branching ratio of B -> J/Psi K.
-
 We are conducting a [survey][] to get some input on what
 people think they would like to learn or think
 others should learn.
 
 [survey]: https://docs.google.com/forms/d/1IqU_u6sirC7vnBINNoiMzHj7mumm6xem9N2gssmfOfA/viewform
-
-Current best guess is we will split things into four half
-days. Topics:
-
- * how to make a basic nTuple on the grid (screen, ganga, template option files, find out tags)
- * mass hypo susbtitution pi <-> K, how to (ab/re)use a similar stripping line
- * Fun with Loki functors
- * Decay tree fitter
-
-The idea is to cover things which lots of people need
-but are not "basic". What do you do once you have
-your simple nTuple. Things that you will need to do
-and will be painful because they are not explained.
 
 
 ## Other topics that could be interesting for the future

@@ -12,9 +12,8 @@ People who can be helpers for days one and two:
 Instructors for days three and four:
 
  * Tim Head
- * Roel Aaji
- * Sascha Stahl?
- * Sebastian Neubert?
- * Olli Lupton?
- * your-name-here
+ * Roel Aaji (half day, morning)
+ * Sascha Stahl (half day)
+ * Alex Pearce
+ * Albert Puig
 

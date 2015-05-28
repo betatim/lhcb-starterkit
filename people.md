@@ -7,6 +7,7 @@ People who can be helpers for days one and two:
  * Igor Babuschkin
  * Jacco de Vries
  * Giulio Dujany
+ * Sebastian Neubert
  * your-name-here
 
 Instructors for days three and four:
@@ -16,4 +17,5 @@ Instructors for days three and four:
  * Sascha Stahl (half day)
  * Alex Pearce
  * Albert Puig
+ * Sebastian Neubert (will leave Friday noon at some point)
 
